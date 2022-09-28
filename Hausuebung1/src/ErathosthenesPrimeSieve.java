@@ -14,7 +14,7 @@ public class ErathosthenesPrimeSieve implements PrimeSieve {
         int num = scanner.nextInt();
         boolean[] max = new boolean[num];
 
-        for (int i = 0; i < max.length; i++) {
+        //for (int i = 0; i < max.length; i++) {
             max[i] = true;
         }
         for (int i = 2; i < Math.sqrt(num); i++) {
@@ -40,12 +40,13 @@ public class ErathosthenesPrimeSieve implements PrimeSieve {
     }
 
 
-    /*@Override
+    @Override
     public void printPrimes() {
         for (int a : primes) {
             System.out.print(a + ",");
         }
         System.out.println(" ");
-    }*/
+    }
+
 
 }

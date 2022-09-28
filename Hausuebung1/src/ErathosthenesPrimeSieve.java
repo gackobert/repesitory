@@ -40,12 +40,12 @@ public class ErathosthenesPrimeSieve implements PrimeSieve {
     }
 
 
-    @Override
+    /*@Override
     public void printPrimes() {
         for (int a : primes) {
             System.out.print(a + ",");
         }
         System.out.println(" ");
-    }
+    }*/
 
 }

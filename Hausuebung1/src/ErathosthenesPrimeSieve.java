@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class ErathosthenesPrimeSieve implements PrimeSieve {
 
-
     private static boolean[] primezahlen;
     private static ArrayList<Integer> primes;
 
@@ -26,7 +25,7 @@ public class ErathosthenesPrimeSieve implements PrimeSieve {
 
         }
 
-        /*for(int i = 0; i < num-1; i++) {
+        /*for(int i = 0; i <= p; i++) {
             if (primezahlen[i]) {
                 primes.add(i);
             }
@@ -52,12 +51,14 @@ public class ErathosthenesPrimeSieve implements PrimeSieve {
 
 
 
-    public static void printPrimes() {
-        for (int i : primes) {
+    public void printPrimes() {
+        for (int i = 0; i < primes.size(); i++) {
             System.out.print(i + ",");
+            if (isPrime(i));
         }
         System.out.println(" ");
     }
 
 
 }
+

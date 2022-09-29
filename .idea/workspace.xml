@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="090348e8-d468-4a0e-b179-85bc2d99929e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repesitory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculateOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalloJavamitForEach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberTester.java" beforeDir="false" />
+    <list default="true" id="ccbc369a-8ebd-438c-be71-ba94eeed4db8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Hausuebung2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +13,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2FQsYjGVgMBbrkFLh6mHbZo3loI" />
+  <component name="ProjectId" id="2FR07dLEEPq0y2Vxp6Cwy6zqsOh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,11 +33,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="090348e8-d468-4a0e-b179-85bc2d99929e" name="Changes" comment="" />
-      <created>1664435694344</created>
+      <changelist id="ccbc369a-8ebd-438c-be71-ba94eeed4db8" name="Changes" comment="" />
+      <created>1664439423038</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664435694344</updated>
+      <updated>1664439423038</updated>
     </task>
     <servers />
   </component>

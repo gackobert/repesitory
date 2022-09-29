@@ -1,3 +1,3 @@
 public interface CalculateOperation {
-    Number clac(Number x, Number y);
+    Number calc(Number x, Number y);
 }

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccbc369a-8ebd-438c-be71-ba94eeed4db8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hausuebung2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/AbstractCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/AbstractCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/CalculateOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/CalculateOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

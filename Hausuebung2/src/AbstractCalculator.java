@@ -11,4 +11,9 @@ public abstract class AbstractCalculator {
         this.multiply = multiply;
         this.divide = divide;
     }
+
+    public abstract Number add(Number a, Number b);
+    public abstract Number substract(Number a, Number b);
+    public abstract Number multiply(Number a, Number b);
+    public abstract Number divide(Number a, Number b);
 }

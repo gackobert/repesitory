@@ -7,4 +7,5 @@ public class Main {
         CalculationOperation subtract = (double x, double y) -> { return x-y; };
         CalculationOperation multiply = (double x, double y) -> { return x*y; };
         CalculationOperation divide = (double x, double y) -> { return x/y; };*/
+    }
 }

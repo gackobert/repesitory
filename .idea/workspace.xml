@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccbc369a-8ebd-438c-be71-ba94eeed4db8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hausuebung2/src/VectorCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/HalloJavamitForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/HalloJavamitForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/NumberTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/NumberTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/RationalCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/RationalCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/ComplexCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/ComplexCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hausuebung2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hausuebung2/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="2FR07dLEEPq0y2Vxp6Cwy6zqsOh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Hausuebung2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

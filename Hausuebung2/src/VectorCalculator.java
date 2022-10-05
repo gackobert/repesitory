@@ -1,9 +1,8 @@
-public class ComplexCalculator extends AbstractCalculator{
+public class VectorCalculator extends AbstractCalculator {
 
-    public ComplexCalculator(CalculateOperation add, CalculateOperation substract, CalculateOperation multiply, CalculateOperation divide) {
+    public VectorCalculator(CalculateOperation add, CalculateOperation substract, CalculateOperation multiply, CalculateOperation divide) {
         super(add, substract, multiply, divide);
     }
-
 
     @Override
     public Number add(Number a, Number b) {
@@ -12,7 +11,7 @@ public class ComplexCalculator extends AbstractCalculator{
 
     @Override
     public Number substract(Number a, Number b) {
-        return null;
+        return this.substract.calc(a,b);
     }
 
     @Override
